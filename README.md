@@ -1,5 +1,5 @@
 # Maze-And-Dice
-An unusual maze game playing with dice
+An unusual maze game with dice
 
 #usage
 1. Create your map with colliders.
