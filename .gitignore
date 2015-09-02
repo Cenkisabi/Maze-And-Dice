@@ -14,5 +14,7 @@ Library/
 *.csproj
 *.pidb
 *.sln
+*.suo
+*.user
 *.unityproj
 *.booproj
